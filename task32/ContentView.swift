@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("collaboration omg")
-            Text("JEW")
+            Text("Black is BLACK")
             Text("JEW")
             Text("JEW")
             Text("JEW")
