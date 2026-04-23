@@ -27,6 +27,7 @@ struct ContentView: View {
             Text("JEW")
             Text("JEW")
             Text("CHINA")
+            Text("why does userinterface keep having conflicts")
             
         }
         .padding()
