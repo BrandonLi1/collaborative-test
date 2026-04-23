@@ -26,7 +26,7 @@ struct ContentView: View {
             Text("JEW")
             Text("JEW")
             Text("JEW")
-            Text("JEW")
+            Text("CHINA")
             
         }
         .padding()
