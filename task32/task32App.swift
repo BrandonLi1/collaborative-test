@@ -12,6 +12,7 @@ struct task32App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            Text("My ass hurts")
         }
     }
 }
